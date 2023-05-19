@@ -14,6 +14,7 @@ PRIMARY KEY(id)
 
 );
 
+
 CREATE TABLE role (
 
 id INT NOT NULL AUTO_INCREMENT,
