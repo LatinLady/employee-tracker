@@ -1,6 +1,24 @@
 // Variable Definitions & Dependencies
 const inquirer = require('inquirer');
 const db = require('./db/connection');
+const cfonts = require('cfonts');
+
+// Function to start the application
+cfonts.say('Employee Tracker', {
+    font: 'block',
+    align: 'center',
+    color: 'red',
+    background: 'transparent',
+    letterSpacing: 1,
+    lineHeight: 1,
+    space: true,
+    maxLength: '0',
+    gradient: false,
+    independentGradient: false,
+    transitionGradient: false,
+    env: 'node'
+});
+
 
 // Start server after DB connection
 db.connect(err => {
@@ -260,7 +278,3 @@ var employee_tracker = function () {
         }
     })
 };
-
-
-
-
