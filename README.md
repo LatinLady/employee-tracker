@@ -32,5 +32,8 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Screenshot
+<img width="960" alt="2023-05-21" src="https://github.com/LatinLady/employee-tracker/assets/118027404/181b26ec-658c-4fce-bf61-93cb76306d75">
+<img width="960" alt="2023-05-21 (1)" src="https://github.com/LatinLady/employee-tracker/assets/118027404/cdb867be-272f-447b-a62c-35e140dc6899">
+
 
 ## Link
