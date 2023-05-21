@@ -37,5 +37,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 ## Link
-Video link https://drive.google.com/file/d/10SceWnleL4Vfm2upvekX9I84KRCqyBD1/view
-GitHub link 
+. Video link https://drive.google.com/file/d/10SceWnleL4Vfm2upvekX9I84KRCqyBD1/view
+. GitHub link https://github.com/LatinLady/employee-tracker.git
